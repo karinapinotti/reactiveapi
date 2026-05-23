@@ -1,0 +1,9 @@
+br/com/professorisidro/reactiveapi/dto/RequisicaoDTO.class
+br/com/professorisidro/reactiveapi/WebClientConfiguration.class
+br/com/professorisidro/reactiveapi/ReactiveapiApplication.class
+br/com/professorisidro/reactiveapi/service/DocFiscalServiceImpl.class
+br/com/professorisidro/reactiveapi/repo/DocFiscalRepo.class
+br/com/professorisidro/reactiveapi/dto/ProtocoloDTO.class
+br/com/professorisidro/reactiveapi/model/DocFiscal.class
+br/com/professorisidro/reactiveapi/service/IDocFiscalService.class
+br/com/professorisidro/reactiveapi/controller/DocFiscalController.class

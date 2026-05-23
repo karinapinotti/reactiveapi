@@ -1,0 +1,9 @@
+/media/karina/Backup/www/reactiveapi/src/main/java/br/com/professorisidro/reactiveapi/ReactiveapiApplication.java
+/media/karina/Backup/www/reactiveapi/src/main/java/br/com/professorisidro/reactiveapi/WebClientConfiguration.java
+/media/karina/Backup/www/reactiveapi/src/main/java/br/com/professorisidro/reactiveapi/controller/DocFiscalController.java
+/media/karina/Backup/www/reactiveapi/src/main/java/br/com/professorisidro/reactiveapi/dto/ProtocoloDTO.java
+/media/karina/Backup/www/reactiveapi/src/main/java/br/com/professorisidro/reactiveapi/dto/RequisicaoDTO.java
+/media/karina/Backup/www/reactiveapi/src/main/java/br/com/professorisidro/reactiveapi/model/DocFiscal.java
+/media/karina/Backup/www/reactiveapi/src/main/java/br/com/professorisidro/reactiveapi/repo/DocFiscalRepo.java
+/media/karina/Backup/www/reactiveapi/src/main/java/br/com/professorisidro/reactiveapi/service/DocFiscalServiceImpl.java
+/media/karina/Backup/www/reactiveapi/src/main/java/br/com/professorisidro/reactiveapi/service/IDocFiscalService.java
